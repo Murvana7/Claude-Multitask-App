@@ -26,4 +26,4 @@
 
 - No external dependencies
 
-Beginner-friendly and easy to extend
+- Beginner-friendly and easy to extend
