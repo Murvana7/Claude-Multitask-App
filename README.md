@@ -1,6 +1,6 @@
-#🧩 Claude-Multitask-App
+# Claude-Multitask-App
 
-A lightweight, all-in-one productivity web app that combines multiple everyday tools into a single interface. Built for simplicity, speed, and convenience—no unnecessary complexity.
+🧩 A lightweight, all-in-one productivity web app that combines multiple everyday tools into a single interface. Built for simplicity, speed, and convenience—no unnecessary complexity.
 
 📌 Included Tools
 
