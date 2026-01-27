@@ -4,26 +4,26 @@
 
 📌 Included Tools
 
-Counter – Simple increment/decrement counter
+- Counter – Simple increment/decrement counter
 
-Quick Notes – Fast note-taking for ideas and reminders
+- Quick Notes – Fast note-taking for ideas and reminders
 
-To-Do List – Task management with add/remove functionality
+- To-Do List – Task management with add/remove functionality
 
-Color Palette – Generate and preview colors instantly
+- Color Palette – Generate and preview colors instantly
 
-Progress Tracker – Track completion or progress visually
+- Progress Tracker – Track completion or progress visually
 
-Random Generator – Generate random values on demand
+- Random Generator – Generate random values on demand
 
 ✨ Features
 
-Multiple utilities in one app
+- Multiple utilities in one app
 
-Clean and minimal UI
+- Clean and minimal UI
 
-Fast and lightweight
+- Fast and lightweight
 
-No external dependencies
+- No external dependencies
 
 Beginner-friendly and easy to extend
