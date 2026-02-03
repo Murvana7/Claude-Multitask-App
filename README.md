@@ -2,7 +2,7 @@
 
 🧩 All-in-one productivity web app that combines multiple everyday tools into a single interface. Built for simplicity, speed, and convenience-no unnecessary complexity.
 
-📌 Included Tools
+## 📌 Included Tools
 
 - Counter – Simple increment/decrement counter
 
@@ -16,7 +16,7 @@
 
 - Random Generator – Generate random values on demand
 
-✨ Features
+## ✨ Features
 
 - Multiple utilities in one app
 
@@ -24,7 +24,7 @@
 
 - Fast and lightweight
 
-👷‍♂️Built With
+## 👷‍♂️Built With
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" />
